@@ -1,1 +1,1 @@
-Complire RAG system based on Infotecs Data for answering on questions with documintation context.
+Complite RAG system based on Infotecs Data for ansfering on questions with documentation context.
